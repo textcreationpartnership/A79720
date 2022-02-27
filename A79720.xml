@@ -1,0 +1,519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the commissioners of the Generall Assembly to the whole Kirk and kingdome of Scotland, concerning present dangers and duties, relating to the Covenant, and religion.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79720</idno>
+            <idno type="STC">Wing C4217</idno>
+            <idno type="STC">Thomason E432_24</idno>
+            <idno type="STC">ESTC R206162</idno>
+            <idno type="EEBO-CITATION">99865338</idno>
+            <idno type="PROQUEST">99865338</idno>
+            <idno type="VID">117578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117578)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the commissioners of the Generall Assembly to the whole Kirk and kingdome of Scotland, concerning present dangers and duties, relating to the Covenant, and religion.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Ker.</note>
+                  <note>Annotation on Thomason copy: "March 20th 1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117578:1"/>
+            <pb facs="tcp:117578:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE COMMISSIONERS OF THE GENERALL ASSEMBLY To the
+whole Kirk and Kingdome of SCOTLAND, CONCERNING Preſent dangers and duties,
+relating to the <hi>Covenant,</hi> and <hi>Religion.</hi>
+            </p>
+            <p>Printed at Edinburgh by <hi>Evan Tyler</hi> Printer to the Kings
+moſt Excellent MAJESTY, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:117578:2"/>
+            <pb n="1" facs="tcp:117578:2"/>
+            <head>Edinb. 
+<date>
+                  <hi>1.</hi> Martii. <hi>1648.</hi>
+Poſtmeridiem.</date>
+            </head>
+            <head type="sub">A Declaration of the Commiſsioners of the Generall
+Aſſembly to the whole Kirk and Kingdom of <hi>Scotland,</hi> concerning
+preſent dangers, and duties rela<g ref="char:EOLhyphen"/>ting to the Covenant and RELIGION.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F in a time of ſo great and imminent danger to Religion and
+the cauſe of God, the Trumpet in Zion ſhould give no cer<g ref="char:EOLhyphen"/>tain ſound, nor
+the watch-mens Tower any ſeaſonable warning, it might be juſt<g ref="char:EOLhyphen"/>ly charged
+upon us as a ſinfull neglect of duty, and the blood of many thouſand
+ſoules might be required at our hands. Therefore ſo farre as we have
+diſcovered the dangerous plots and ſnares of the malitious and crafty
+adverſaries of this cauſe; We ſhall freely and faith fully make the
+ſame known; truſting that all who would not make ſhipwrack of faith and a
+good conſcience, will carefully avoyd as well hid as manifeſt rocks, when
+they are warned of them.</p>
+            <p>After the ſolemn League and Covenant of the three 
+<pb n="2" facs="tcp:117578:3"/>Kingdomes had ſo proſpered againſt the enemies and
+op<g ref="char:EOLhyphen"/>poſers thereof, as made them deſpaire of overthrowing it in any ſuch
+way of a direct oppoſition; They begun with much wit and induſtry to
+indeavour a dividing of the ends of the Covenant, and an altering of the
+firſt principle and ſtate of the cauſe. Upon the one hand, the Sectaries
+in England, (according as is formerly repreſented by the late Generall
+Aſſembly in their Declaration to their Brethren of England, and by our
+Remonſtrance to the Committee of Eſtates of the 13. of <hi>October</hi>
+laſt) have by fraud and violence endeavoured the ſubverſion of Religion;
+whoſe exorbitant inſolency being now in Armes is ſo unſuppor<g ref="char:EOLhyphen"/>table,
+that no man can doubt but all the Articles of the Covenant are in danger by
+them; the vile errors, wicked hereſies, and intolerable blaſphemies dayly
+growing a<g ref="char:EOLhyphen"/>mongſt them can hardly be reckoned up; all which are mightily
+aggredged by the lawleſſe and godleſſe toleration thereof; and leaſt
+Parliamentary authority ſhould curb this monſtrous inſolency, they have
+not onely refuſed Orders for disbanding, but have forced Orders for their own
+ſtanding, and doe overrule Parliament, King, City, and Country to the
+trampling under foot all government Civill and Eccleſiaſticall, and to the
+terrour, oppreſſion, and apparent ruine of all the truly, godly, and
+ſound lovers of the ſolemn League and Covenant. On the other hand the
+Prelaticall and Malignant party have catched at and ſtu<g ref="char:EOLhyphen"/>died to make
+advantage of ſome parts and clauſes of the Covenant, without keeping all
+the links of that golden thain faſt together.</p>
+            <p>This deſign of receding from the former principles, and Rating
+the publike cauſe otherwiſe then it was ſtated by <pb n="3" facs="tcp:117578:3"/>both
+Kingdomes when they joyned in Covenant and Arms, may be abundantly diſovered
+by two inſtances; Firſt, the deſign hath been ſo faſt and ſo far
+driven on, that although the fourth Article of the League and Covenant was
+cleerly framed and intended againſt the malignant party; And although there
+was one expreſſe Article in the Treaty between the Kingdomes for ſwearing
+and ſubſcri<g ref="char:EOLhyphen"/>bing the League and Covenant by both Kingdomes as a more near
+tye and conjunction of both for their defence againſt the Popiſh
+Prelaticall and Malignant party and their adlierents; And although in the
+Declaration of both Kingdomes in the year 1643. It was declared that all ſuch
+as would not ſpeedily take the Covenant, and joyn with all their power in the
+defence of this cauſe, are to be cenſured and puniſhed as profeſſed
+<hi>Adverſaries</hi> and <hi>Malignants;</hi> Yet ſome are not aſhamed to
+plead for the Malignant party, as if they were friends rather then enemies to
+this cauſe, and as none were now to be looked upon as dangerous ene<g ref="char:EOLhyphen"/>mies to
+the cauſe, but the Sectaries onely; whereas the word of God and the
+experience of former times not only teacheth us to beware of dangers from the
+fraud, as well as the force, from the plots as well as from the power of
+enemies; but alſo ſetteth before us ſad examples of great unexpected
+miſeries, and miſchiefes brought upon the peo<g ref="char:EOLhyphen"/>ple of God, from enemies once
+broken and quaſhed, when they got again the power of the ſword, and
+opportunity to act whatſoever cruelties their inveterate malice and enra<g ref="char:EOLhyphen"/>ged
+ſpirits put them upon.</p>
+            <p>The other inſtance is, that although in the Covenant, the duty
+of preſerving and defending the Kings Majeſties perſon and authority be
+joyned with &amp; ſubordinate unto the duty <pb n="4" facs="tcp:117578:4"/>of preſerving
+and defending the true Religion and Liberties of the kingdoms; and although
+from the beginning of this cauſe, the good ſafety and ſecurity of
+Religion hath been principally ſought after and inſiſted upon: yet
+ſollicitati<g ref="char:EOLhyphen"/>ons, perſwaſions, and endeavours have not been, nor are
+wanting for his Majeſties reſtitution to the exerciſe of his royall
+power, and for eſpouſing his Majeſties quarrell, not<g ref="char:EOLhyphen"/>withſtanding his
+not granting of the publick deſires con<g ref="char:EOLhyphen"/>cerning the Covenant, and Religion:
+And this courſe is clearly contrary to the declared reſolution of the
+Parli<g ref="char:EOLhyphen"/>ament of this kingdome, after advice deſired from us, upon the caſe
+concerning the King then propounded to us; And it is no leſſe contrary to
+the principles and profeſſions of the convention and of the Committee of
+Eſtates, before any ſuch advice was deſired or had from us: yea all along
+and in the whole courſe of the publick proceedings, the ſetling and
+ſecuring of Religion hath been ſo much ſtood upon, that Malignants who
+intended a new ſtate of the cauſe did well perceive how great difficulty,
+and how ſmall hopes there was of ſatisfying this Kirk and Kingdome with any
+thing elſe, while unſatisfied in the point of Reli<g ref="char:EOLhyphen"/>gion; and therefore all
+poſſible care hath been taken by them whereby to have ſome ſpecious and
+fair pretences of ſatisfaction in the buſineſſe of Religion.</p>
+            <p>And here, as we do not diſapprove, but highly commend the worthy
+pains of ſuch as did indeed endeavour to bring the Kings Majeſty a greater
+length, even to give full ſatis<g ref="char:EOLhyphen"/>faction in point of Religion; ſo we cannot
+but take notice of that report which many did lately entertain and ſpread in
+this country, namely that his Majeſty hath given ſatiſ<g ref="char:EOLhyphen"/>faction to the
+deſires of this Kirk and Kingdome in <pb n="5" facs="tcp:117578:4"/>point of the Covenant
+and Religion.</p>
+            <p>If his Majeſty had indeed given ſuch ſatisfaction, we
+ſhould rejoyce at it as much as any, and however ſhall not ceaſe to pray
+for his Majeſty, that God would give him re<g ref="char:EOLhyphen"/>pentance &amp; remiſſion of
+ſins, &amp; incline his heart to the love of the true Religion and
+Reformation, and that his Royall perſon may be preſerved from all harm and
+violence: And being now (as we formerly remonſtrate on the 13. of
+<hi>Octo<g ref="char:EOLhyphen"/>ber</hi>) very ſenſible of the preſent danger his Majeſties
+perſon and Monarchicall government is into by that prevalent party of
+Sectaries; We ſhall, ſo far as concerneth the duty of our places and
+callings, endeavour the preſervation of Monarchicall government in his
+Majeſty, and his poſterity according to the Covenant; not being ignorant
+what confuſions and calamities uſe to attend the change either of the
+government it ſelfe, or of the Royall line. Never<g ref="char:EOLhyphen"/>theleſſe the country
+being ſo generally poſſeſſed with ſo dangerous a miſtake, and
+miſunderſtanding of ſo great a buſineſſe; and his Majeſty
+himſelfe profeſſing in his letter to us, dated at <hi>Carisbrook</hi>
+Caſtle the 27. of <hi>December</hi> laſt, that he hath reſolved ſo
+farre to agree to the deſires of this Kirk and Kingdome concerning the
+Covenant and ſetling Religion, as he is confident ſhall give us
+ſatisfaction; If now we ſhould be ſilent, we might be underſtood as
+tacite<g ref="char:EOLhyphen"/>ly conſenting and acquieſcing; We are therefore neceſsita<g ref="char:EOLhyphen"/>ted for
+undeceiving the Nation, and for acquitting our ſelves, to declare that a
+narrative of the ſtate of publick af<g ref="char:EOLhyphen"/>faires, having been made to us by
+thoſe who were entru<g ref="char:EOLhyphen"/>ſted for that effect, and ſince delivered to us in
+writing, We have more eſpecially taken to our ſerious thoughts ſo much of
+that narrative as was from his Majeſty made <pb n="6" facs="tcp:117578:5"/>known unto us,
+as his reſolutions for ſatisfaction in point of Religion. The firſt
+Article whereof is as followeth.</p>
+            <p n="1">1. <hi>For the Covenant, his Majesty giving beleefe to the
+pro<g ref="char:EOLhyphen"/>feſsions of theſe who have entered into the League and Cove<g ref="char:EOLhyphen"/>nant, and
+that their intentions are reall for preſervation of his Majeſties perſon
+according to their allegiance, and no wayes to diminiſh his juſt power and
+greatneſſe, is content ſo ſoon as be can with freedome, honour, and
+ſafety, be preſent in a free Par<g ref="char:EOLhyphen"/>liament to confirm the ſaid League and
+Covenant by Act of Parliament in both kingdomes, for ſecurity of all thoſe
+who have taken or ſhall take the ſaid Govenant, provided that none who is
+unwilling ſhall be conſtrained to take it.</hi>
+            </p>
+            <p>Which Article hath nothing in it of his Majeſties affe<g ref="char:EOLhyphen"/>ction to,
+or liking and approbation of the Covenant, but only what he is content to yeeld
+in order to his own inte<g ref="char:EOLhyphen"/>reſt. Yea an Act of Parliament for ſecurity of
+thoſe who have taken or ſhall take the Covenant, doth or may ſup<g ref="char:EOLhyphen"/>poſe
+ſome ſault, or ſomewhat juſtly challengeable in the taking of the
+Covenant, which needeth ane act of indem<g ref="char:EOLhyphen"/>nity. Next the offer is but
+conditionall, and hath in the bo<g ref="char:EOLhyphen"/>ſome of it ane complication of ſuch and
+ſo many condi<g ref="char:EOLhyphen"/>tions as might open a door to ſome evaſion or other, by
+multiplying exceptions, difficulties, and various notions, either concerning
+the profeſsions of thoſe who have entred into the League and Covenant, or
+concerning his Maje<g ref="char:EOLhyphen"/>ſties juſt power and greatneſſe, or concerning his
+freedom honour and ſafety, or concerning a free Parliament. And although the
+conceſsion were certain and abſolute, it a<g ref="char:EOLhyphen"/>mounts to no more, but to a
+leaving of the Covenant ar<g ref="char:EOLhyphen"/>bitrary; which is contrary to the Acts of the
+Generall Aſ<g ref="char:EOLhyphen"/>ſembly <pb n="7" facs="tcp:117578:5"/>and Parliament in this Kingdome, to
+the Declaration of both kingdomes before cited, and to one of the chiefe
+Propoſitions of Religion once agreed upon by both kingdomes, for a ſafe and
+well grounded peace; <hi>viz.</hi> The Propoſition con<g ref="char:EOLhyphen"/>cerning his
+Majeſties ſwearing and ſigning of the League and Covenant, and enjoyning
+by Act of Parliament in both kingdomes the taking there of by all the
+ſubjects in the three kingdomes, with ſuch penalties as ſhall bee agreed
+upon by both king<g ref="char:EOLhyphen"/>domes: So that the firſt Article of his Majeſties offer
+is a moſt manifeſt altering of the ſtate of this cauſe; It is alſo a
+ſtrengthening of the hearts and hands both of the Sectaries and of the
+Malignant party, a partaking and conniving at the ſinne of all thoſe in the
+three Kingdoms who have refuſed, or ſhall refuſe to enter into the League
+and Covenant, an introducing of a deteſtable indifferency or neu<g ref="char:EOLhyphen"/>trality in
+this cauſe which ſo much concerneth the glory of God, the good of the
+Kingdom and the honour of the King. And therefore we have judged this Article
+not onely unſatisfactory, but deſtru<g ref="char:EOLhyphen"/>ctive to the Covenant. Neither are we
+moved with that objection which is hinted, concerning the con<g ref="char:EOLhyphen"/>ſtraining or
+inforcing of mens conſciences: They refuſe a neceſſary duty who
+refuſe to take the Co<g ref="char:EOLhyphen"/>venant; and the penalty or puniſhment of ſuch
+re<g ref="char:EOLhyphen"/>fuſall is no conſtraining of the conſcience, more then the penalty or
+puniſhment of a Subject who refuſeth to take the Oath of Allegiance is a
+con<g ref="char:EOLhyphen"/>ſtraining of the conſcience to Loyalty or more then the puniſhment of
+Idolaters, Blaſphemers, and Se<g ref="char:EOLhyphen"/>ducers, <pb n="8" facs="tcp:117578:6"/>mentioned ſo often
+in Scripture, can be cal<g ref="char:EOLhyphen"/>led a conſtraining of the conſcience to the feare
+of God.</p>
+            <p>The words of the ſecond Article are theſe:</p>
+            <p>
+               <hi>His Majeſty will likewiſe confirm by Act of Parlia<g ref="char:EOLhyphen"/>ment
+in</hi> England, <hi>Presbyteriall Government, the Di<g ref="char:EOLhyphen"/>rectory for Worſhip,
+and Aſſembly of Divines at</hi> Weſt<g ref="char:EOLhyphen"/>minſter <hi>for three years, ſo
+that his Majeſty and his houſhold bee not hindered from uſing that form
+of Di<g ref="char:EOLhyphen"/>vine Service he hath formerly practiſed; and that a free debate and
+conſultation be had with the Divines at Weſt<g ref="char:EOLhyphen"/>minſter (twenty of his
+Majeſties nomination being added unto them) and with ſuch as ſhall be
+ſent from the Church of</hi> Scotland, <hi>whereby it may be determined by
+his Ma<g ref="char:EOLhyphen"/>jeſtie and the two Houſes how the Church Government af<g ref="char:EOLhyphen"/>ter the three
+years ſhall be fully eſtabliſhed according to the word of God.</hi>
+            </p>
+            <p>For ought we know the conditions couched in the firſt Article
+are alſo to be underſtood in this and the following Articles: However this
+ſecond Article as it is but the ſame in ſubſtance with ſome of his
+Maje<g ref="char:EOLhyphen"/>ſties conceſſions in former Meſſages, ſo that which is
+propoſed in it, is but a Toleration of Presbyteriall Government in
+<hi>England,</hi> and that but for three years, and is a direct allowance, at
+leaſt of the Book of Common Prayer in his Majeſties Houſehold: And
+moreover, by the ſecond Article not only a door is leſt open for
+reeſtabliſhing Prelacy and the Service Book, But the happy progreſſe
+already made in the <pb n="9" facs="tcp:117578:6"/>Reformation, and Uniformity of Religion
+according to the Covenant in a confeſſion of Faith, Directo<g ref="char:EOLhyphen"/>ry of
+Worſhip, Form of Church Government and Catechiſme is ſet aſide as ſo
+much loſt labour, in order to a future ſettlement. Free debate with any of
+the Prelaticall party nominated by his Majeſty (when there was any ſuch
+occaſion) hath not been declined: But we have great cauſe to be tender of
+un<g ref="char:EOLhyphen"/>ſetling and razing a good foundation already laid in the work of
+Reformation. And whereas his Majeſty will have it determined by himſelf,
+and the two Hou<g ref="char:EOLhyphen"/>ſes, how the Church Government after the ſaid three years
+ſhall be eſtabliſhed according to the Word of God: This doth at once cut
+off three of the moſt materiall and moſt neceſſary Propoſitions
+concern<g ref="char:EOLhyphen"/>ing Religion formerly agreed upon by both King<g ref="char:EOLhyphen"/>doms, and from both
+tendred to his Majeſty, (though ſome of them be now laid aſide by the two
+Houſes of the Parliament of <hi>England</hi>) namely, The third
+Propoſition, for aboliſhing Archbiſhops, Biſhops, &amp;c. The fifth
+Propoſition, That Reformation of Religion according to the Covenant be
+ſetled by Act of Parliament, in ſuch manner as both Houſes have agreed,
+or ſhall agree upon after conſultation had with the Aſſembly of
+Divines; And the ſixth Pro<g ref="char:EOLhyphen"/>poſition, That ſuch unity and uniformity in
+Religion according to the Covenant, as after conſultation had with the
+Divines of both Kingdome, aſſembled at <hi>Weſtminſter,</hi> is, or
+ſhall be joyntly agreed by both Houſes of the Parliament of
+<hi>England,</hi> and by the Church and Kingdom of <hi>Scotland</hi> be
+confirmed by Acts of Parliament of both Kingdoms reſpectively. 
+<pb n="10" facs="tcp:117578:7"/>Of which three Popoſitions, there can be no hopes (as to
+his Majeſties conſent or concurrance) if the offer now made concerning a
+determination by his Majeſty and the two Houſes, be compared with his
+Maje<g ref="char:EOLhyphen"/>ſties claiming of a negative voice, and with his Meſſage of
+<hi>Nov.</hi> 16. in which he declared that both in rela<g ref="char:EOLhyphen"/>tion as he is a
+Chriſtian and as a King, he cannot give his conſent to the aboliſhing
+Archbiſhops, Bi<g ref="char:EOLhyphen"/>ſhops, &amp;c. Believing that this order was placed in the
+Church by the Apoſtles themſelves, and that his Majeſty is alſo bound
+by his Coronation Oath to maintain it. And this meſſage of
+<hi>November</hi> 16. His Majeſty adhereth unto, in his Anſwer to the Bills
+and Propoſitions preſented to him at <hi>Carisbrook</hi> Ca<g ref="char:EOLhyphen"/>ſtle; which
+Anſwer is dated <hi>December</hi> 28. and ſo after his Majeſties Letter
+to us. Upon theſe and the like conſiderations we have found the ſaid
+ſecond Article of his Majeſties offers in point of Religion to be
+de<g ref="char:EOLhyphen"/>ſtructive to Presbyteriall Government, the Directo<g ref="char:EOLhyphen"/>ry of Worſhip, and
+the uniformity intended accord<g ref="char:EOLhyphen"/>ing to the Covenant.</p>
+            <p>For the third Article delivered to us in theſe words. <hi>And
+for ſuppreſsing of Schiſme and Hereſies, his Majeſty is content and
+moſt willing that an effectuall courſe be taken by Act of Parliament, and
+all other wayes needfull and expedient for ſuppreſsing the opinions and
+pra<g ref="char:EOLhyphen"/>ctiſes of Antitrinitarians, Arrians, Socinians, Antiſcrip<g ref="char:EOLhyphen"/>turiſts,
+Antinomians, Anabaptiſts, Arminians, Fami<g ref="char:EOLhyphen"/>liſts, Browniſts,
+Separatiſts, Independents, Libertines, and Seekers, and generally for
+ſuppreſsing all Blaſphemy, He<g ref="char:EOLhyphen"/>reſie, Schiſme, and all ſuch
+ſcandalous doctrine or pra<g ref="char:EOLhyphen"/>ctiſes <pb n="11" facs="tcp:117578:7"/>as are contrary to the
+light of nature, or to the known principles of Chriſtianity (whether
+concerning faith, worſhip or converſation) or to the power of
+Godli<g ref="char:EOLhyphen"/>neſſe, or which may be deſtructive to order or govern<g ref="char:EOLhyphen"/>ment, or to
+the peace of Church or Kingdom.</hi>
+            </p>
+            <p>As we doe Approve of the Suppreſſion of the par<g ref="char:EOLhyphen"/>ricular
+Hereſies and Schiſmes ennumerate in his Ma<g ref="char:EOLhyphen"/>jeſties offer; So we ſee not
+how it can be reconciled with his Majeſties Meſſage of <hi>November</hi>
+16. in which there was a conceſſion to all ſuch as differ from
+Pres<g ref="char:EOLhyphen"/>biteriall Government: And doe further find the Ar<g ref="char:EOLhyphen"/>ticle dangerous and
+defective in omitting Eraſtianiſm, and other dangerous errours,
+eſpecially Popery and Prelacy, which may prove deſtructive to the Co<g ref="char:EOLhyphen"/>venant
+in miniſtring the occaſion to Papiſts and Pre<g ref="char:EOLhyphen"/>lats to plead for a
+toleration, although the Covenant binde us to endeavour the extirpation both of
+Popery and Prelacy.</p>
+            <p>Having now diſcovered the ſnares and dangers, We ſhall in
+the next place moſt humbly and ſeriouſly propoſe and recommend ſome
+wholeſom ſeaſonable and pious counſells to all the members of this
+Church and Kingdome, eſpecially to the Honourable and High Court of
+Parliament, and to the Brethren of the Miniſtery, which may alſo ſerve to
+expreſſe our ſenſe concerning the whole matter contained in that
+narrative, delivered to us in writing, ſo far as is com<g ref="char:EOLhyphen"/>petent and fit for us
+to give any Judgement thereupon.</p>
+            <p>Firſt of all we exhort all and every one to make 
+<pb n="12" facs="tcp:117578:8"/>more conſcience of endeavouring a reall Reformation of
+themſelves and their Families, and of the place, in which they live, then
+ever yet they have done; to be more ſerious in ſearching their hearts,
+conſidering their wayes, and purging themſelves from all filthi<g ref="char:EOLhyphen"/>neſſe
+of the fleſh and ſpirit to perfect holines in the fear of God; to oppoſe
+wickedneſſe and profaneneſſe, pro<g ref="char:EOLhyphen"/>mote the power and practiſe of
+Godlineſſe, and to be deeply humbled before the Lord for neglecting theſe
+things ſo much and ſo long; with all employing and improving Chriſts
+alſufficiency, and ſtriving to ex<g ref="char:EOLhyphen"/>erciſe faith in him for the grace of
+mortification and ſanctification, as well as for remiſſion of ſinnes
+and peace with God; that being implanted and rooted in him, we may grow up as
+trees of Righteouſneſſe, the planting of the Lord that he may be
+glorified; for without amendment of life, and bringing forth of better fruit,
+the fierce wrath of the Lord cannot turn away from us.</p>
+            <p>Secondly, as men deſire they may not be led into temptation, but
+may bee guided in ſafe and right pathes, in the midſt of ſo great
+difficulties; Let them avoid the company and counſell of the ungodly, whereby
+even good men, have been oft times moſt dangerouſly enſnared; Let all
+that fear God chooſe the Teſtimonies of the Lord for their counſellours,
+be much in prayer and ſearching the minde of God in his word without leaning
+to their own underſtand<g ref="char:EOLhyphen"/>ing, or conſulting with ſloſh and blood in
+caſes of conſcience.</p>
+            <pb n="13" facs="tcp:117578:8"/>
+            <p>Thirdly, ſeeing 'tis no act of wiſdom but of folly, ſo to
+ſhune one danger as to runne upon another as bad or worſe; Let us therefore
+avoid enemies and be<g ref="char:EOLhyphen"/>ware of dangers on all hands: We cannot ſee but the
+cauſe of God, the true Religion, the Covenant, Preſ<g ref="char:EOLhyphen"/>byteriall Government,
+this Church and Kingdom, and whatſoever is deareſt to us will be in as
+great danger, if the Prelaticall party prevail, as now they are into by the
+power and prevalency of Sectaries in <hi>England,</hi> who have made the
+Covenant and begun re<g ref="char:EOLhyphen"/>formation to be laid aſide and hindered the promoting
+thereof. So that there is a neceſſity to be apprehen<g ref="char:EOLhyphen"/>ſive of dangers, and
+attentive to remedies on both ſides, and to be ware of compliance with, and
+conni<g ref="char:EOLhyphen"/>vance at Sectaries upon the one hand, and Malignants upon the other.</p>
+            <p>Fourthly, when we ſpeak of Malignants, we deſire that the
+diſtinction may be remembred, which was made in the ſolemne Warning to the
+Kingdom from the Generall Aſſembly in <hi>February</hi> 1645. <hi>Viz.</hi>
+That the cauſe is in very great danger from two ſorts of Malignant Enemies:
+Firſt, from ſuch as have open<g ref="char:EOLhyphen"/>ly diſplayed a Banner, or joyned in Armes
+and pro<g ref="char:EOLhyphen"/>feſſed Hoſtility againſt the cauſe, and ſuch as adhered
+thereunto: Secondly, from ſecret Malignants, Diſ<g ref="char:EOLhyphen"/>covenanters, and boſome
+Enemies. This ſecond ſort may be ſtill known by ſome Characters, given
+both at that time and before that time, As by their ſlandering or cenſuring
+the Covenant of the three Kingdomes and expedition into <hi>England,</hi> in
+the year 1643, as not neceſſary for the good of Religion, or ſafety of
+this <pb n="14" facs="tcp:117578:9"/>Kingdom, or as tending to the diminution of the Kings
+juſt Power and greatneſſe, By their confounding of the Kings Power and
+juſt Authority, with the pre<g ref="char:EOLhyphen"/>tence and abuſe thereof by Commiſſions,
+Warrants or Letters procured from his Majeſtie by the Enemies of this cauſe
+and Covenant As if none were Faithfull and Loyall to the King, who oppoſe
+ſuch men and their wayes; By their Spleen, Malice, and calum<g ref="char:EOLhyphen"/>nies againſt
+ſuch as God hath made eminently inſtru<g ref="char:EOLhyphen"/>mentall in this cauſe, and who
+reſolve to be conſtant to the end in their firſt Principles, as if ſuch
+men were the Kings Enemies who are moſt zealous for the good and ſafety of
+Religion; By their commending, juſtifying or excuſing other known
+Malignants, and by their converſing or intercommuning with excom<g ref="char:EOLhyphen"/>municate
+delinquents. Unto which Characters time and experience give us occaſion to
+adde ſome others, as namely, Their un willingnes and declining to reckon
+Malignants among the Enemies of this cauſe from whom danger is to be
+apprehended; Their disjoyning and dividing the duty of endeavouring the Kings
+Ma<g ref="char:EOLhyphen"/>jeſties preſervation and reſtitution, from the duty of preſerving,
+defending, ſetling and ſecuring Religion; As if we might and ought to
+purſue the former with<g ref="char:EOLhyphen"/>out the latter while both are in danger; Their
+malig<g ref="char:EOLhyphen"/>ning of, and uttering malicious words againſt faith<g ref="char:EOLhyphen"/>full and Zealous
+Miniſters, and againſt this meeting and Judicatory, appointed by the
+Generall Aſſembly: Laſtly, their crying up or down of parties or
+perſons, and even of the Sectaries themſelves according as they have more
+or leſſe hopes of advantage from them to their own deſignes. For 'tis not
+long ſince ſuch men <pb n="15" facs="tcp:117578:9"/>made light account of any dangers,
+which were ap<g ref="char:EOLhyphen"/>prehended from the prevalent faction of the Sec<g ref="char:EOLhyphen"/>taries in
+<hi>England;</hi> There being then ſome hopes of a compliance and combination
+between them and the Malignants: Which is an infallible demonſtra<g ref="char:EOLhyphen"/>tion that
+ſuch mens pretended Zeal againſt thoſe Sec<g ref="char:EOLhyphen"/>taries now is not from the
+right Principle. Where<g ref="char:EOLhyphen"/>fore let all ſuch dangerous perſons as we have here
+deciphered and deſcibed be carefully obſerved and avoided, as men would
+keep themſelves pure, and free of ſnares: And let Presbyteries be diligent
+to diſcover, trie, and cenſure any of this kinde in their bounds, that they
+may be able herein to give a good account of their diligence; As alſo that
+they be carefull to diſcover, try, and cenſure any traf<g ref="char:EOLhyphen"/>ficking Sectaries,
+and all ſuch as favour their opinions and wayes.</p>
+            <p>Fiftly, Though we eſteem that prevalent Faction of Sectaries
+with their abbetters and adherents, Pre<g ref="char:EOLhyphen"/>ſumptious and malicious Enemies to
+Religion, King, and Government: Yet we hold it is our duty to la<g ref="char:EOLhyphen"/>bour to remove
+and prevent all occaſions <hi>of jealouſies and ſuſpitions betwixt the
+Kingdoms; and to doe or ſay nothing that may breed miſ-underſtandings,
+break of cor<g ref="char:EOLhyphen"/>reſpondence, weaken the confidence or infringe the Union and
+peace betwixt the two Kingdoms ſo happily eſtabliſhed in his Majeſties
+preſence, and with his Royall conſent in both Parliaments;</hi> A caution
+as neceſſary now as when it was given above five yeares agoe in a Warning
+from the Commiſſioners of the Generall Aſſembly, met in this ſame
+place, <hi>January</hi> the fourth 1643. And Ge<g ref="char:EOLhyphen"/>nerally <pb n="16" facs="tcp:117578:10"/>we
+defire that all the Articles and clauſes of the ſolemn League and Covenant
+may be kept inſeparably and inviolably linked together, and that there may be
+great tenderneſſe and care to avoid every thing which may be interpreted as
+a contradicting or abandoning of the former principles, proceedings, petitions,
+prote<g ref="char:EOLhyphen"/>ſtations, Remonſtrances, and Declarations of this Kirk and Kingdome
+in the purſuance of this cauſe; and more eſpecially to take good heed
+that <hi>Scotlands</hi> de<g ref="char:EOLhyphen"/>ſires, doe not mount higher for the King, and fall
+low<g ref="char:EOLhyphen"/>er in the point of Religion, then they were at our firſt undertaking and
+ingagement in this cauſe.</p>
+            <p>Finally, we doe moſt ſeriouſly obteſt all the people of
+God in this Nation, and eſpecially the eſtates of Par<g ref="char:EOLhyphen"/>liament, by their
+love to the cauſe of God, by their ſo<g ref="char:EOLhyphen"/>lemn Vowes and Covenants, by their
+firſt principles and profeſſions, by their former zeal and ſincerity,
+by the many bleſſings of God, and his great works done for us when our zeal
+and integrity was greateſt in this cauſe, and by all the curſes and
+judgements of God which his word denounceth againſt back-ſliders and
+Covenant-breakers, that they may all the dayes of their lives continue firme,
+ſtedfaſt, and faithfull in their Covenant with God, and one with another,
+and make good their former profeſſions in a time of tenta<g ref="char:EOLhyphen"/>tion and
+difficulty, without wavering or falling off to the right hand, or to the left,
+and as many as walk ac<g ref="char:EOLhyphen"/>cording to this rule peace be on them and mercy, and
+upon the Iſrael of God.</p>
+            <closer>
+               <signed>A. KER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117578:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
